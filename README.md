@@ -37,9 +37,7 @@ AZURE_DEPLOYMENT=<deployment_name>
 AZURE_API_VERSION=<api_version>
 
 4. Run
-./run.sh
-# or
-python app/main.py
+./run.sh or python app/main.py
 
 🔑 Environment Variables
 Key	Description
